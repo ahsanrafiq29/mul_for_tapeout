@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-ABC
+ABCd
 
 ## How to test
 
-Just by putting the gates
+Just by putting the gatesd
 
 ## External hardware
 
-CLK, RSRT ETC
+CLK, RSRT ETCd
